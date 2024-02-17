@@ -1,6 +1,6 @@
 const urls = [
   'https://media.tenor.com/yk8nhx3fZGYAAAAj/sebas-bleizeffer.gif',
-  'https://assets.stickpng.com/images/5eaaab8cad89b60004c4c7b9.png'
+  './gato.png'
 ];
 
 document.querySelector('img').src = urls[1];
