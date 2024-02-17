@@ -52,6 +52,11 @@ button
     color: hotpink;
     cursor: pointer;
 }
+a
+{
+    text-decoration: none;
+    color: rgb(250, 151, 200);
+}
 footer
 {
     margin-top: 10vh;
