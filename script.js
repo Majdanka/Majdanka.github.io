@@ -25,7 +25,7 @@ function WhyWouldYouDoThat(c) {
         break;
     case 2:
         document.getElementById('n').innerText = 'Last chance...';
-        document.getElementById('y').style.fontSize = '3em';
+        document.getElementById('y').style.fontSize = '2.5em';
         document.getElementById('y').style.textDecoration = 'underline';
         break;
     case 3:
